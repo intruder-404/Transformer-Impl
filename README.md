@@ -2,7 +2,7 @@
 
 Use self, and cross attention to learn query, key, values(embedding) triplets for context generation
 
-![transformer](transformer.png)
+![transformer](Attention Mechanism.png)
 
 
 I use scaled dot product attention, although it can be easily changed to Additive attention
