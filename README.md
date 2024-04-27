@@ -25,6 +25,8 @@ Config::
     'num_epochs': 20,
     'lr': 1e-4
 }
+
+
 Uses multi head attention for internal context
 
 
