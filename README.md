@@ -2,6 +2,11 @@
 
 Use self, and cross attention to learn query, key, values(embedding) triplets for context generation
 
+
+Read the paper :  https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+
+
+
 ![transformer](https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png)
 
 
